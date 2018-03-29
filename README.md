@@ -6,7 +6,11 @@ Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS S
 # User Journey Interfaces
 ## Login
 ![login](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/1.login.png)
+
+## Sidebar
 ![Sidebar](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/2.side-bar.png)
+
+## HomePage
 ![Homepage](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/3.Home.png)
 
 ## Search
@@ -33,6 +37,7 @@ Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS S
 ## New Booking Request Supplier View
 ![supplier-new-request-view](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/11.new-request-supplier-view.png)
 ![supplier-new-request-view-accept-reject](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/12.accept-reject-supplier-view.png)
+
 ## Supplier Accepted Request View
 ![supplier-accepted-request-view](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/13.accepted-request-supplieir-view.png)
 
