@@ -6,17 +6,11 @@ Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS S
 # User Journey Interfaces
 ## Login
 ![login](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/1.login.png)
-
-## Sidebar
 ![Sidebar](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/2.side-bar.png)
-
-## Homepage
 ![Homepage](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/3.Home.png)
 
 ## Search
 ![search](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/4.search-results.png)
-
-## Product Detail Modal
 ![product-detail](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/5.product-detail-modal.png)
 
 ## DatePicker
