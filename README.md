@@ -23,6 +23,12 @@ Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS S
 ## DatePicker
 ![data-picker](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/6.date-picker.png)
 
+## DatePicker Passed Dates Disabled
+![data-picker](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/21.Booking_Request_Form_Past_Dates_Disabled.png)
+
+## DatePicker Booked Dates Disabled
+![data-picker](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/22.Booking_Request_Form_Booked_Dates_Disabled.png)
+
 ## TimePicker
 ![time-picker](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/7.time-picker.png)
 
@@ -68,4 +74,12 @@ Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS S
 
 ## New Order Supplier View
 ![new-order-supplier-view](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/19.new-order-supplier-view.png)
+
+
+
+
+
+
+
+
 
