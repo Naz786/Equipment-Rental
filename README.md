@@ -36,9 +36,6 @@ Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS S
 ## TimePicker
 ![time-picker](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/7.time-picker.png)
 
-## TimePicker
-![time-picker](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/7.time-picker.png)
-
 ## New Booking Request Customer View
 ![new-request-customer-view](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/8.customer-request.png)
 
