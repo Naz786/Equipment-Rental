@@ -17,7 +17,7 @@ Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS S
 ![search](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/4.search-results.png)
 ![product-detail](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/5.product-detail-modal.png)
 
-## Booking Index Desktop View
+## Booking Index Desktop View with Reviews Added (updated)
 ![Booking Index Desktop View](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/20.Booking_Request_Form.png)
 
 ## DatePicker
