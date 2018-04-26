@@ -16,6 +16,10 @@ Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS S
 ## Search
 ![search](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/4.search-results.png)
 ![product-detail](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/5.product-detail-modal.png)
+## Search with Reviews Added (updated)
+![search](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/24.Home_Page_All_Products.png)
+![product-detail](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/25.Home_Page_Product_Search.png)
+
 
 ## Booking Index Desktop View with Reviews Added (updated)
 ![Booking Index Desktop View](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/20.Booking_Request_Form.png)
