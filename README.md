@@ -69,7 +69,13 @@ Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS S
 ![stripe-payment-gateway](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/16.stripe-payment-terminal-modal.png)
 
 ## Paid Booking Request Customer View
-![stripe-payment-gateway](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/17.customer-request-paid.png)
+![customer-order-paid](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/31.Customer_Order_To_Review.png)
+
+## Customer Review Order
+![customer-create-review](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/32.Customer_Make_Review.png)
+
+## Review Added to Product Detail Page
+![review-added](https://github.com/Naz786/Equipment-Rental/blob/master/Project%20Images/33.Product_With_New_Review.png)
 
 ## SMS Notification Messages 
 ### First message goes to customer
