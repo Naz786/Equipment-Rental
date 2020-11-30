@@ -1,5 +1,5 @@
 # Equipment-Rental
-Built an ASP.NET MVC web application during my final year of university. It is an equipment booking web application that offers a marketplace for suppliers to list their products and customers to book and purchase the products. 
+ASP.NET MVC web application. It is an equipment booking web application that offers a marketplace for suppliers to list their products and customers to book and purchase the products. 
 
 Technologies used for project include ASP.NET MVC, Visual Studio, C#, LINQ, MS SQL Server HTML, CSS, Materialize, JQuery, Javascript, AJAX, JSON, Twilio, Stripe, Google Recaptcha.
 
